@@ -12,7 +12,6 @@ Unlike registry Run keys or scheduled tasks, WMI subscriptions:
 - ✅ **Survive reboots** automatically
 - ✅ Are **missed by most AV/EDR** solutions monitoring only file-based indicators
 
-Built and tested at [AltaySec Labs](https://altaysec.com.tr).
 
 ---
 
@@ -258,13 +257,3 @@ WMI-Persistence-Detection-Lab/
 - [SigmaHQ](https://github.com/SigmaHQ/sigma)
 
 ---
-
-## 👤 Author
-
-**Emir Rasit Gokce**  
-Detection Engineer & Blue Team Operator  
-[AltaySec Labs](https://altaysec.com.tr) · [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) · [GitHub](https://github.com/V3nG4mxV1p3r)
-
----
-
-> Built at [AltaySec Labs](https://altaysec.com.tr) — open-source Blue Team lab environments for hands-on detection engineering.
